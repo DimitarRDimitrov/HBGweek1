@@ -31,7 +31,6 @@ class CashDesk:
                             return True
             if amount != 0:
                 return False
-        
             # if amount == 0:
             #     return True
             # else:
